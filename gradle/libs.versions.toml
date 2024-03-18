@@ -1,7 +1,7 @@
 [versions]
 # libraries
 annotations = "24.1.0"
-lombokGradlePlugin = "8.4"
+lombokGradlePlugin = "8.6"
 okHttp = "4.12.0"
 
 # plugins
